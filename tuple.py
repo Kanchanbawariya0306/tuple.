@@ -1,3 +1,3 @@
   print ("\t\t\TUPLE ")
-a = 'arun ','ahirwar','ravi','ahirwar ','munna ','ahirwar' 
+a = 'kanchan','bawariya'
 print("Tuple = ",a)
